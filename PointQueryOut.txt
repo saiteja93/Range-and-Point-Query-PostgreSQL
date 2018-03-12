@@ -1,0 +1,4 @@
+rangeratingspart2,1,329,2.5 
+rangeratingspart2,1,520,2.5 
+roundrobinratingspart0,1,329,2.5 
+roundrobinratingspart0,1,520,2.5 
